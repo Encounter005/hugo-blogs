@@ -1,1 +1,2 @@
-my personal blogs made by hugo
+* HUGO
+    my personal blogs made by hugo
