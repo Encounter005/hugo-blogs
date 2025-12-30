@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = "Raven005's blogs"
+theme = [ "blowfish", "plugins-live2d" ]

@@ -1,0 +1,7 @@
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "themes/plugins-live2d"]
+	path = themes/plugins-live2d
+	url = https://github.com/fixit-theme/hugo-shortcode-plugins-live2d.git
