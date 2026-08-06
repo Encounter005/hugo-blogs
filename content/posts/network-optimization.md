@@ -9,7 +9,7 @@ date = "2024-03-24T22:34:34+08:00"
 
 > 下面的参数可以在`/etc/sysctl.conf`这个文件中修改
 
-另外再多说一句，`Turbo acc`这个插件对这种500M一下的带宽基本没什么作用
+另外再多说一句，`Turbo acc`这个插件对这种500M以下的带宽基本没什么作用
 
 # 最大队列大小优化
 
@@ -249,7 +249,7 @@ net.ipv4.tcp_timestamps=1
 要启用该功能:
 
 ```bash
-net.ipv4.tcp.sack = 1
+net.ipv4.tcp_sack = 1
 ```
 
 
